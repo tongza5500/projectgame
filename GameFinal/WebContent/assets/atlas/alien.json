@@ -1,0 +1,249 @@
+{
+  "frames": {
+    "A2_000": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 545,
+        "y": 227,
+        "w": 178,
+        "h": 219
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 178,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_001": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 184,
+        "y": 450,
+        "w": 180,
+        "h": 220
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_002": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 449,
+        "w": 180,
+        "h": 221
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 221
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_003": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 225,
+        "w": 179,
+        "h": 222
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_004": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 548,
+        "y": 448,
+        "w": 179,
+        "h": 222
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 179,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_005": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 183,
+        "y": 225,
+        "w": 179,
+        "h": 222
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_006": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 364,
+        "y": 226,
+        "w": 179,
+        "h": 222
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_007": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 365,
+        "y": 2,
+        "w": 179,
+        "h": 222
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_008": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 546,
+        "y": 3,
+        "w": 179,
+        "h": 222
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 179,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_009": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 184,
+        "y": 2,
+        "w": 179,
+        "h": 221
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 179,
+        "h": 221
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_010": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 180,
+        "h": 221
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 221
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    },
+    "A2_011": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 366,
+        "y": 450,
+        "w": 180,
+        "h": 220
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 224
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "alien.png"
+  }
+}

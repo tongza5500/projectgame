@@ -1,0 +1,340 @@
+{
+  "level": [
+    {
+      "type": "image",
+      "key": "mono",
+      "url": "assets/images/mono.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "boniatillo",
+      "url": "assets/images/boniatillo.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "smoke1",
+      "url": "assets/smoke1.png",
+      "frameWidth": 80,
+      "frameHeight": 80,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "audio",
+      "key": "scream",
+      "urls": ["assets/Sound/scream.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "spritesheet",
+      "key": "tabstart",
+      "url": "assets/images/tabstart.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "atlas",
+      "key": "flys1",
+      "textureURL": "assets/atlas/flys.png",
+      "atlasURL": "assets/atlas/flys.json",
+      "format": "TEXTURE_ATLAS_JSON_HASH"
+    },
+    {
+      "type": "spritesheet",
+      "key": "dog",
+      "url": "assets/images/Dog.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "hp",
+      "url": "assets/images/hp.png",
+      "frameWidth": 50,
+      "frameHeight": 44,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "cupcake",
+      "url": "assets/cupcake.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "ez_button",
+      "url": "assets/images/ez_button.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "hd_button",
+      "url": "assets/images/hd_button.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "buttonteam",
+      "url": "assets/images/buttonteam.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "t_taem",
+      "url": "assets/images/123.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "audio",
+      "key": "flysound",
+      "urls": ["assets/Sound/flysound.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "spritesheet",
+      "key": "btnclose",
+      "url": "assets/btnclose.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "back4team",
+      "url": "assets/back4team.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "dog1",
+      "url": "assets/atlas/dog.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "wall2",
+      "url": "assets/images/maph.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "hero",
+      "url": "assets/images/hero.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "superdog",
+      "url": "assets/images/superdog.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "poplose",
+      "url": "assets/poplose.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "key",
+      "url": "assets/images/key.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "alien",
+      "url": "assets/atlas/alien.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "atlas",
+      "key": "alien1",
+      "textureURL": "assets/atlas/alien.png",
+      "atlasURL": "assets/atlas/alien.json",
+      "format": "TEXTURE_ATLAS_JSON_HASH"
+    },
+    {
+      "type": "image",
+      "key": "popwin",
+      "url": "assets/images/popwin.png",
+      "overwrite": false
+    },
+    {
+      "type": "audio",
+      "key": "bachg",
+      "urls": ["assets/Sound/Robobozo.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "image",
+      "key": "wall",
+      "url": "assets/images/mape.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "atlas",
+      "key": "dog2",
+      "textureURL": "assets/atlas/dog.png",
+      "atlasURL": "assets/atlas/dog.json",
+      "format": "TEXTURE_ATLAS_JSON_HASH"
+    },
+    {
+      "type": "audio",
+      "key": "getscore",
+      "urls": ["assets/Sound/getscore.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "image",
+      "key": "star",
+      "url": "assets/images/star.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "S1",
+      "url": "assets/images/S1.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "S2",
+      "url": "assets/images/S2.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "S3",
+      "url": "assets/images/S3.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "S4",
+      "url": "assets/images/S4.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "S5",
+      "url": "assets/images/S5.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "S6",
+      "url": "assets/images/S6.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "S1",
+      "url": "assets/images/S1.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "S2",
+      "url": "assets/images/S2.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "S3",
+      "url": "assets/images/S3.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "S4",
+      "url": "assets/images/S4.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "S6",
+      "url": "assets/images/S5.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    }
+  ],
+  "start": [{
+    "type": "image",
+    "key": "tap-to-start",
+    "url": "assets/images/tap-to-start.png",
+    "overwrite": false
+  }],
+  "preload": [{
+    "type": "image",
+    "key": "loading",
+    "url": "assets/images/loading.png",
+    "overwrite": false
+  }],
+  "meta": {
+    "generated": "1513771310016",
+    "app": "Phaser Editor",
+    "url": "http://phasereditor.boniatillo.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2016"
+  }
+}
